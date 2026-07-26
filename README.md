@@ -23,6 +23,10 @@ This is an OrcaSlicer edit based on: [Bearing Generator - Parametric Ball Bearin
 
 > **No files included here.** The bearing generator's license doesn't permit sharing derivative digital/physical files, so the `.3mf` isn't in this repo. Generate the bearing yourself on the MakerWorld page (steps below) and apply the slicer edits described to reproduce this part.
 
+I've asked the original designer, via the MakerWorld comments, for permission to share my modified files — see screenshot below. If/when they grant it, I'll add the `.3mf` files here.
+
+![Comment on MakerWorld asking for permission to share the modified bearing files](stem-bag-holder/pics/makerworld-sharing-request.jpg)
+
 **How to reproduce:**
 
 1. On the [MakerWorld model page](https://makerworld.com/en/models/1083205-bearing-generator-parametric-ball-bearings#profileId-1075444), open **Customize**.
