@@ -59,12 +59,13 @@ This is an OrcaSlicer edit based on: [Bearing Generator - Parametric Ball Bearin
 ## Assembly
 Here is how I assembled version one
 
-- Sand Down Inner Ring
-- Super Glue Inner Ring around the stem about 30mm below handlebar catch
+- Sand gown inner ring
+- Super glue inner ring around the stem about 30mm below handlebar catch
 - Bring stem in horizontal position
-- zip tie Outer Ring on one side 
+- Zip tie outer ring on one side 
 - Fill the bearing (This is fiddely)
-- Zip Tie the second side
+- Zip tie the second side
+- Then zip-tie the bungee cord on all 3 blocks so the bearing orients itself correctely
 
 ## Gallery
 
