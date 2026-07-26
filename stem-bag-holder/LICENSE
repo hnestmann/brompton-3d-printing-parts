@@ -1,0 +1,40 @@
+Stem Bag Holder — License
+
+This folder's contents are dual-sourced and carry different terms than
+the rest of this repository:
+
+1. Bearing model files
+   ("dumbbell Bearing Generator.3mf", "dumbbell Bearing Generator-inner-ring.3mf")
+
+   Derived from "Bearing Generator - Parametric Ball Bearings" on
+   MakerWorld:
+   https://makerworld.com/en/models/1083205-bearing-generator-parametric-ball-bearings#profileId-1075444
+
+   That model's own Standard Digital File License normally prohibits
+   sharing derivative digital or physical files. The original designer
+   (MakerWorld user @koolm) was asked directly and granted explicit
+   permission to share this derivative, with credit appreciated. See
+   pics/makerworld-sharing-request.jpg and
+   pics/makerworld-sharing-approval.jpg for the record of that exchange.
+
+   That permission did not waive the original license's restriction on
+   commercial use ("may not be used ... in any way whatsoever in which
+   you charge money, or collect fees"). Treat the bearing model files
+   under these terms:
+
+     - Attribution required: credit "Bearing Generator - Parametric Ball
+       Bearings" by @koolm on MakerWorld (link above).
+     - Non-commercial use only.
+     - Sharing/remixing of this derivative is permitted per the
+       designer's approval above.
+
+   This is closest to CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/),
+   applied by analogy since the original platform license doesn't map
+   directly to a Creative Commons license.
+
+2. Everything else in this folder
+   (README.md, photos, slicer screenshots)
+
+   Released under CC0 1.0 Universal, same as the rest of this
+   repository — see the root LICENSE file. No rights reserved, no
+   credit required, commercial use fine.

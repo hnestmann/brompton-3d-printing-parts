@@ -1,0 +1,16 @@
+Triangle Clamp for Pendix — License
+
+My own contributions in this folder (README.md, photos, the Fusion 360
+source "Pendix Bracket.f3d"/"Pendix Bracket.step", and the resulting
+print files) are released under CC0 1.0 Universal — see the root
+LICENSE file. No rights reserved, no credit required, commercial use
+and further derivatives are fine by me.
+
+Caveat: this bracket is adapted from the "Brompton B75 clamp"
+(https://grabcad.com/library/brompton-b75-1) on GrabCAD, which does not
+state an explicit license. Absent a stated license, the original
+uploader retains default copyright over the underlying geometry, so my
+CC0 grant cannot fully clear that geometry for downstream commercial
+use — that would require permission from the original GrabCAD author.
+If you want to commercialize this part, track down the original author
+for clearance first.

@@ -122,16 +122,18 @@ Affirmer's express Statement of Purpose.
 
 ---
 
-This CC0 license applies to the original content in this repository
-created by the repository owner (README, documentation, photos, and the
-Fusion 360 source for the Pendix triangle clamp).
+This CC0 license applies to this repository's top-level content (this
+file, the root README).
 
-It does NOT extend to, and cannot waive rights in, third-party designs
-referenced or adapted in this repository, specifically:
+Each part has its own folder-level LICENSE file, since terms differ per
+part:
 
-- The bearing model referenced in stem-bag-holder/, based on a MakerWorld
-  model released under a separate Standard Digital File License. See
-  README.md for details.
-- The underlying geometry of the Pendix triangle clamp, adapted from a
-  GrabCAD model with no explicitly stated license. See README.md for
-  details.
+- stem-bag-holder/LICENSE — the bearing model files are shared under the
+  original MakerWorld designer's explicit permission (attribution
+  required, non-commercial use only), not CC0. Everything else in that
+  folder is CC0.
+- triangle-clamp-for-pendix/LICENSE — CC0 for the repo owner's own
+  contributions, with a caveat that the underlying GrabCAD geometry has
+  no explicitly stated license from its original author.
+
+Check the folder-level LICENSE before reusing files from either part.
